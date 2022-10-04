@@ -1,0 +1,16 @@
+#container {
+  background-color: #3d83df;
+  width: 550px;
+  margin: 50px auto 100px auto;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 10px;
+}
+.form-input,
+textarea {
+  margin-top: 20px;
+}
+input,
+textarea {
+  border-radius: 10px;
+}
